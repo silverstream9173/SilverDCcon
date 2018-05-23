@@ -27,6 +27,26 @@
 	{"name":"초크바.gif", 		"keywords":["초크바"],						"tags":[]},
 	{"name":"갓동.gif", 		"keywords":["갓동"],						"tags":[]},
 	{"name":"눕동.gif", 		"keywords":["눕동"],						"tags":[]},
+	{"name":"탄식.gif", 		"keywords":["탄식"],						"tags":[]},
+	{"name":"구토.gif", 		"keywords":["구토"],						"tags":[]},
+
+	{"name":"sss.png", 		"keywords":["sss"],						"tags":[]},
+	{"name":"zzz.png", 		"keywords":["zzz"],						"tags":[]},
+	{"name":"블러드트레일.png", 		"keywords":["블러드트레일", "블트"],						"tags":[]},
+	{"name":"비블썸프.png", 		"keywords":["비블썸프", "비썸"],						"tags":[]},
+	{"name":"일루미나티.png", 		"keywords":["일루", "일루미나티"],						"tags":[]},
+	{"name":"페페끄덕.gif", 		"keywords":["페페끄덕"],						"tags":[]},
+	{"name":"페페네온.gif", 		"keywords":["페페네온"],						"tags":[]},
+	{"name":"페페무한.gif", 		"keywords":["페페무한"],						"tags":[]},
+	{"name":"페페윙크.gif", 		"keywords":["페페윙크"],						"tags":[]},
+	{"name":"페페이불.png", 		"keywords":["페페이불"],						"tags":[]},
+	{"name":"페페착시.gif", 		"keywords":["페페착시"],						"tags":[]},
+	{"name":"페페탕탕.gif", 		"keywords":["페페탕탕"],						"tags":[]},
+	{"name":"페페화남.gif", 		"keywords":["페페화남"],						"tags":[]},
+	{"name":"페페활활.gif", 		"keywords":["페페활활"],						"tags":[]},
+
+
+
 
 
 	{"name":"싸닉.png",			"keywords":["싸닉"],						"tags":["소닉"]},
