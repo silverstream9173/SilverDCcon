@@ -29,6 +29,11 @@
 	{"name":"눕동.gif", 		"keywords":["눕동"],						"tags":[]},
 	{"name":"탄식.gif", 		"keywords":["탄식"],						"tags":[]},
 	{"name":"구토.gif", 		"keywords":["구토"],						"tags":[]},
+	{"name":"시공편안.gif", 		"keywords":["편안2"],						"tags":[]},
+	{"name":"뻐큐.gif", 		"keywords":["뻐큐", "ㅗ"],						"tags":[]},
+	{"name":"한잔해.png", 		"keywords":["한잔해"],						"tags":[]},
+	{"name":"박지성.gif", 		"keywords":["박지성"],						"tags":[]},
+	{"name":"티비꺼라.png", 		"keywords":["티비꺼라", "티비꺼"],						"tags":[]},
 
 	{"name":"sss.png", 		"keywords":["sss"],						"tags":[]},
 	{"name":"zzz.png", 		"keywords":["zzz"],						"tags":[]},
@@ -111,6 +116,9 @@
 	{"name":"우리핵아닌데.gif",		"keywords":["우리핵아닌데"], 					"tags":["우리핵", "움짤"]},
 	{"name":"우리핵안녕.gif",		"keywords":["우리핵안녕"],					"tags":["우리핵", "움짤"]},
 	{"name":"우리핵투정.gif",		"keywords":["우리핵투정"], 					"tags":["우리핵", "움짤"]},
+	{"name":"우리핵안녕2.gif",		"keywords":["우리핵안녕2"], 					"tags":["우리핵", "움짤"]},
+	{"name":"우리핵병신.gif",		"keywords":["우리핵병신"],					"tags":["우리핵", "움짤"]},
+	{"name":"우리핵안무.gif",		"keywords":["우리핵안무"], 					"tags":["우리핵", "움짤"]},
 
 	{"name":"레바그안키.png",		"keywords":["그안키", "안키우는데요"],				"tags":["레바"]},
 	{"name":"레바띠용.png",			"keywords":["레바띠용"],					"tags":["레바"]},
