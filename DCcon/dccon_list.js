@@ -24,6 +24,9 @@
 	{"name":"호우4.gif", 		"keywords":["호우4"],						"tags":[]},
 	{"name":"챔스.gif", 		"keywords":["챔스"],						"tags":[]},
 	{"name":"파킨2.gif", 		"keywords":["파킨2"],						"tags":[]},
+	{"name":"초크바.gif", 		"keywords":["초크바"],						"tags":[]},
+	{"name":"갓동.gif", 		"keywords":["갓동"],						"tags":[]},
+	{"name":"눕동.gif", 		"keywords":["눕동"],						"tags":[]},
 
 
 	{"name":"싸닉.png",			"keywords":["싸닉"],						"tags":["소닉"]},
