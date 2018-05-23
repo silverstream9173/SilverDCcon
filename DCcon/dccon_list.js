@@ -16,8 +16,12 @@
 	{"name":"추골헐.png", 		"keywords":["추골헐"],						"tags":[]},
 	{"name":"추골하하.png", 		"keywords":["추골하하"],						"tags":[]},
 	{"name":"골든빳다죠.png", 		"keywords":["골든빳다죠"],						"tags":[]},
-	{"name":"나가.png", 		"keywords":["나가"],						"tags":[]},
+	{"name":"훔바나가.gif", 		"keywords":["나가"],						"tags":[]},
+	{"name":"훔바헛발.gif", 		"keywords":["헛발"],						"tags":[]},
 	{"name":"호우.gif", 		"keywords":["호우"],						"tags":[]},
+	{"name":"호우2.gif", 		"keywords":["호우2"],						"tags":[]},
+	{"name":"호우3.gif", 		"keywords":["호우3"],						"tags":[]},
+	{"name":"호우4.gif", 		"keywords":["호우4"],						"tags":[]},
 	{"name":"챔스.gif", 		"keywords":["챔스"],						"tags":[]},
 	{"name":"파킨2.gif", 		"keywords":["파킨2"],						"tags":[]},
 
