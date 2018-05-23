@@ -18,8 +18,8 @@
 	{"name":"골든빳다죠.png", 		"keywords":["골든빳다죠"],						"tags":[]},
 	{"name":"나가.png", 		"keywords":["나가"],						"tags":[]},
 	{"name":"호우.gif", 		"keywords":["호우"],						"tags":[]},
-	{"name":"챔스.gif", 		"keywords":["챔스"],						"tags":[]}
-	{"name":"파킨2.gif", 		"keywords":["파킨2"],						"tags":[]}
+	{"name":"챔스.gif", 		"keywords":["챔스"],						"tags":[]},
+	{"name":"파킨2.gif", 		"keywords":["파킨2"],						"tags":[]},
 
 
 	{"name":"싸닉.png",			"keywords":["싸닉"],						"tags":["소닉"]},
