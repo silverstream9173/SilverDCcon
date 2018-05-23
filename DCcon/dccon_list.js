@@ -20,9 +20,9 @@
 	{"name":"주톱호랑이3.gif", 		"keywords":["호랑이3"],						"tags":["주토피아", "움짤"]},
 	{"name":"주톱호랑이4.gif", 		"keywords":["호랑이4"],						"tags":["주토피아", "움짤"]},
 
-	{"name":"추골.gif", 		"keywords":["추골"],						"tags":[]},
-	{"name":"추골헐.gif", 		"keywords":["추골헐"],						"tags":[]},
-	{"name":"추골하하.gif", 		"keywords":["추골하하"],						"tags":[]},
+	{"name":"추골.png", 		"keywords":["추골"],						"tags":[]},
+	{"name":"추골헐.png", 		"keywords":["추골헐"],						"tags":[]},
+	{"name":"추골하하.png", 		"keywords":["추골하하"],						"tags":[]},
 
 
 	{"name":"싸닉.png",			"keywords":["싸닉"],						"tags":["소닉"]},
