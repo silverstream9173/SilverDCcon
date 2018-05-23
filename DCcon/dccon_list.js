@@ -16,6 +16,7 @@
 	{"name":"추골헐.png", 		"keywords":["추골헐"],						"tags":[]},
 	{"name":"추골하하.png", 		"keywords":["추골하하"],						"tags":[]},
 	{"name":"골든빳다죠.png", 		"keywords":["골든빳다죠"],						"tags":[]},
+	{"name":"나가.png", 		"keywords":["나가"],						"tags":[]},
 
 
 	{"name":"싸닉.png",			"keywords":["싸닉"],						"tags":["소닉"]},
