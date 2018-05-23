@@ -105,7 +105,7 @@
 	{"name":"징징이.gif", 		"keywords":["징징이"],						"tags":[]},
 	{"name":"찐따.gif", 		"keywords":["찐따"],						"tags":[]},
 	{"name":"하스삭제.gif", 		"keywords":["하스삭제", "삭제"],						"tags":[]},
-	{"name":"핫산결심.gif", 		"keywords":["핫산결", "결심"],						"tags":[]},
+	{"name":"핫산결심.gif", 		"keywords":["핫산결심", "결심"],						"tags":[]},
 	{"name":"호렌지.gif", 		"keywords":["호렌지"],						"tags":[]},
 
 	{"name":"DTD.png", 		"keywords":["DTD", "디티디"],						"tags":[]},
@@ -152,7 +152,7 @@
 	{"name":"핫산눈물.png", 		"keywords":["핫산눈물"],						"tags":[]},
 	{"name":"핫산서라.png", 		"keywords":["핫산서라"],						"tags":[]},
 	{"name":"핫산풍습.png", 		"keywords":["핫산풍습"],						"tags":[]},
-	{"name":"헬조선.png", 		"keywords":["헬조선"],						"tags":[]},
+	{"name":"헬조선.png", 		"keywords":["불조선"],						"tags":[]},
 
 
 	{"name":"싸닉.png",			"keywords":["싸닉"],						"tags":["소닉"]},
