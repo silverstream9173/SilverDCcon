@@ -99,7 +99,7 @@
 	{"name":"주디떡상.gif", 		"keywords":["주디떡상", "떡상"],						"tags":[]},
 	{"name":"주디띠용.gif", 		"keywords":["주디띠용", "띠용"],						"tags":[]},
 	{"name":"주디폴짝.gif", 		"keywords":["주디깡총", "깡총"],						"tags":[]},
-	{"name":"지루전갈.gif", 		"keywords":["지루전, "스콜피온""],						"tags":[]},
+	{"name":"지루전갈.gif", 		"keywords":["지루전갈", "스콜피온"],						"tags":[]},
 	{"name":"지식.gif", 		"keywords":["지식"],						"tags":[]},
 	{"name":"직관.gif", 		"keywords":["직관"],						"tags":[]},
 	{"name":"징징이.gif", 		"keywords":["징징이"],						"tags":[]},
