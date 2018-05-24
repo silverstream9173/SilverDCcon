@@ -23,8 +23,8 @@
 	{"name":"위자드4.png", 		"keywords":["위자드4"],						"tags":["트리키타워"]},
 	{"name":"트리키.png", 		"keywords":["트리키"],						"tags":["트리키타워"]},
 
-
-	
+  {"name":"갓아영.png", 		"keywords":["갓아영"],						"tags":["해축"]},
+  {"name":"졸개들.gif", 		"keywords":["졸개들"],						"tags":["해축"]},
 	{"name":"훔바나가.gif", 		"keywords":["나가"],						"tags":["해축"]},
 	{"name":"훔바헛발.gif", 		"keywords":["헛발"],						"tags":["해축"]},
 	{"name":"호우.gif", 		"keywords":["호우"],						"tags":["해축"]},
