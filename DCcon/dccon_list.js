@@ -3,6 +3,28 @@
 	{"name":"추골헐.png", 		"keywords":["추골헐"],						"tags":["추골"]},
 	{"name":"추골하하.png", 		"keywords":["추골하하"],						"tags":["추골"]},
 	{"name":"골든빳다죠.png", 		"keywords":["골든빳다죠"],						"tags":["추골"]},
+
+  {"name":"드라코.png", 		"keywords":["드라코"],						"tags":["뿌테"]},
+	{"name":"리스쿠마.png", 		"keywords":["리스쿠마", "쿠마"],						"tags":["뿌테"]},
+	{"name":"링고.png", 		"keywords":["링고"],						"tags":["뿌테"]},
+	{"name":"시그.png", 		"keywords":["시그", "sig"],						"tags":["뿌테"]},
+	{"name":"아르르.png", 		"keywords":["아르르", "arle"],						"tags":["뿌테"]},
+	{"name":"아미티.png", 		"keywords":["아미티", "amitie"],						"tags":["뿌테"]},
+	{"name":"에이아이.png", 		"keywords":["에이아이", "ai"],						"tags":["뿌테"]},
+	{"name":"에코로.png", 		"keywords":["에코로"],						"tags":["뿌테"]},
+	{"name":"오.png", 		"keywords":["오", "o"],						"tags":["뿌테"]},
+	{"name":"윗치.png", 		"keywords":["윗치", "위치"],						"tags":["뿌테"]},
+	{"name":"제이엘.png", 		"keywords":["제이엘", "jl"],						"tags":["뿌테"]},
+	{"name":"카벙클.png", 		"keywords":["카벙클", "카벙"],						"tags":["뿌테"]},
+
+	{"name":"위자드.png", 		"keywords":["위자드"],						"tags":["트타"]},
+	{"name":"위자드2.png", 		"keywords":["위자드2"],						"tags":["트타"]},
+	{"name":"위자드3.png", 		"keywords":["위자드3"],						"tags":["트리키타워"]},
+	{"name":"위자드4.png", 		"keywords":["위자드4"],						"tags":["트리키타워"]},
+	{"name":"트리키.png", 		"keywords":["트리키"],						"tags":["트리키타워"]},
+
+
+	
 	{"name":"훔바나가.gif", 		"keywords":["나가"],						"tags":["해축"]},
 	{"name":"훔바헛발.gif", 		"keywords":["헛발"],						"tags":["해축"]},
 	{"name":"호우.gif", 		"keywords":["호우"],						"tags":["해축"]},
