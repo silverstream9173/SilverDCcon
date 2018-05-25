@@ -135,7 +135,7 @@
 	{"name":"페페화남.gif", 		"keywords":["페페화남"],						"tags":["개구리", "페페"]},
 	{"name":"페페활활.gif", 		"keywords":["페페활활"],						"tags":["개구리", "페페"]},
 
-	{"name":"역가서순.png",			"keywords":["서순"],						"tags":["역가"]},"핫산"
+	{"name":"역가서순.png",			"keywords":["서순"],						"tags":["역가"]},
 	{"name":"역가순서.png",			"keywords":["순서"],						"tags":["역가"]},
 	{"name":"역헤가오.png",			"keywords":["아흑", "vv", "VV"],				"tags":["역가"]},
 	{"name":"역-헤가오.png",		"keywords":["아헤가오"],					"tags":["역가"]},
