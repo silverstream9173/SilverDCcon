@@ -68,7 +68,7 @@
 	{"name":"콘테.gif", 		"keywords":["콘테"],						"tags":["해축"]},
 	{"name":"펩빡.gif", 		"keywords":["펩빡"],						"tags":["해축"]},
 	{"name":"포그댑.gif", 		"keywords":["포그댑"],						"tags":["해축"]},
-	{"name":".gif", 		"keywords":["호날도"],						"tags":["해축"]},
+	{"name":"호날도.gif", 		"keywords":["호날도"],						"tags":["해축"]},
 	{"name":"호우적.gif", 		"keywords":["호우적"],						"tags":["해축"]},
 	{"name":"화남2.gif", 		"keywords":["화남2", "빡롭", "빡침"],						"tags":["해축"]},
 	{"name":"황가드.gif", 		"keywords":["황가드"],						"tags":["해축"]},
