@@ -40,7 +40,7 @@
 	{"name":"눈물티.png", 		"keywords":["눈물티"],						"tags":["뿌테"]},
 	{"name":"눈물페리.png", 		"keywords":["눈물페리"],						"tags":["뿌테"]},
 
-
+  {"name":"헤으윽.png", 		"keywords":["헤으윽"],						"tags":[""]},
 
 	{"name":"위자드.png", 		"keywords":["위자드"],						"tags":["트리키타워"]},
 	{"name":"위자드2.png", 		"keywords":["위자드2"],						"tags":["트리키타워"]},
