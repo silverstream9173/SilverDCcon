@@ -41,6 +41,8 @@
 	{"name":"눈물페리.png", 		"keywords":["눈물페리"],						"tags":["뿌테"]},
 
   {"name":"헤으윽.png", 		"keywords":["헤으윽"],						"tags":[""]},
+	{"name":"산소답답.png", 		"keywords":["산소답답"],						"tags":["산소미"]},
+	{"name":"수동발전.png", 		"keywords":["수동발전"],						"tags":["산소미"]},
 
 	{"name":"위자드.png", 		"keywords":["위자드"],						"tags":["트리키타워"]},
 	{"name":"위자드2.png", 		"keywords":["위자드2"],						"tags":["트리키타워"]},
