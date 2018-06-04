@@ -40,6 +40,8 @@
 	{"name":"눈물티.png", 		"keywords":["눈물티"],						"tags":["뿌테"]},
 	{"name":"눈물페리.png", 		"keywords":["눈물페리"],						"tags":["뿌테"]},
 	{"name":"에스뻐큐.png", 		"keywords":["에스뻐큐"],						"tags":["뿌테"]},
+	{"name":"제이엘뻐큐.png", 		"keywords":["제이엘뻐큐"],						"tags":["뿌테"]},
+	{"name":"아르르뻐큐.png", 		"keywords":["아르르뻐큐"],						"tags":["뿌테"]},
 
   {"name":"헤으윽.png", 		"keywords":["헤으윽"],						"tags":[""]},
 	{"name":"산소답답.png", 		"keywords":["산소답답"],						"tags":["산소미"]},
