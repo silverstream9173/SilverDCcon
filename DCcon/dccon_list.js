@@ -256,7 +256,7 @@
 	{"name":"핫산풍습.png", 		"keywords":["핫산풍습"],						"tags":["핫산"]},
 	{"name":"헬조선.png", 		"keywords":["불조선"],						"tags":[]},
 
-
+  {"name":"sega.png",			"keywords":["세가", "쎄가"],						"tags":["소닉"]},
 	{"name":"싸닉.png",			"keywords":["싸닉"],						"tags":["소닉"]},
 	{"name":"싸닉골든.png",			"keywords":["골든싸닉"],					"tags":["소닉"]},
 	{"name":"싸닉리얼.png",			"keywords":["리얼싸닉"],					"tags":["소닉"]},
