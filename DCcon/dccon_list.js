@@ -40,6 +40,8 @@
 	{"name":"눈물티.png", 		"keywords":["눈물티"],						"tags":["뿌테"]},
 	{"name":"눈물페리.png", 		"keywords":["눈물페리"],						"tags":["뿌테"]},
 	{"name":"에스뻐큐.png", 		"keywords":["에스뻐큐"],						"tags":["뿌테"]},
+	{"name":"제이엘뻐큐.png", 		"keywords":["제이엘뻐큐"],						"tags":["뿌테"]},
+	{"name":"아르르뻐큐.png", 		"keywords":["아르르뻐큐"],						"tags":["뿌테"]},
 
   {"name":"헤으윽.png", 		"keywords":["헤으윽"],						"tags":[""]},
 	{"name":"산소답답.png", 		"keywords":["산소답답"],						"tags":["산소미"]},
@@ -254,7 +256,7 @@
 	{"name":"핫산풍습.png", 		"keywords":["핫산풍습"],						"tags":["핫산"]},
 	{"name":"헬조선.png", 		"keywords":["불조선"],						"tags":[]},
 
-
+  {"name":"sega.png",			"keywords":["세가", "쎄가"],						"tags":["소닉"]},
 	{"name":"싸닉.png",			"keywords":["싸닉"],						"tags":["소닉"]},
 	{"name":"싸닉골든.png",			"keywords":["골든싸닉"],					"tags":["소닉"]},
 	{"name":"싸닉리얼.png",			"keywords":["리얼싸닉"],					"tags":["소닉"]},
