@@ -304,6 +304,8 @@
 
 	{"name":"참피붕쯔.png",			"keywords":["붕쯔", "붕쯔붕쯔"],				"tags":[]},
 	{"name":"참피쿠이.png",			"keywords":["쿠이", "쿠이쿠이"],				"tags":[]},
+	{"name":"저쪽집.png",			"keywords":["저쪽집"],				"tags":[]},
+	{"name":"우리집.png",			"keywords":["우리집"],				"tags":[]},
 
 	{"name":"우리핵드럼.gif",		"keywords":["우리핵드럼"], 					"tags":["우리핵", "움짤"]},
 	{"name":"우리핵박수1.gif",		"keywords":["우리핵박수", "우리핵박수1"], 			"tags":["우리핵", "움짤"]},
