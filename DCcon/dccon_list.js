@@ -43,6 +43,8 @@
 	{"name":"에스뻐큐.png", 		"keywords":["에스뻐큐"],						"tags":["뿌테"]},
 	{"name":"제이엘뻐큐.png", 		"keywords":["제이엘뻐큐"],						"tags":["뿌테"]},
 	{"name":"아르르뻐큐.png", 		"keywords":["아르르뻐큐"],						"tags":["뿌테"]},
+  {"name":"시그뻐큐.png", 		"keywords":["시그뻐큐"],						"tags":["뿌테"]},
+	{"name":"페리뻐큐.png", 		"keywords":["페리뻐큐"],						"tags":["뿌테"]},
 
   {"name":"헤으윽.png", 		"keywords":["헤으윽"],						"tags":[""]},
 	{"name":"산소답답.png", 		"keywords":["산소답답"],						"tags":["산소미"]},
@@ -303,6 +305,8 @@
 
 	{"name":"참피붕쯔.png",			"keywords":["붕쯔", "붕쯔붕쯔"],				"tags":[]},
 	{"name":"참피쿠이.png",			"keywords":["쿠이", "쿠이쿠이"],				"tags":[]},
+	{"name":"저쪽집.png",			"keywords":["저쪽집"],				"tags":[]},
+	{"name":"우리집.png",			"keywords":["우리집"],				"tags":[]},
 
 	{"name":"우리핵드럼.gif",		"keywords":["우리핵드럼"], 					"tags":["우리핵", "움짤"]},
 	{"name":"우리핵박수1.gif",		"keywords":["우리핵박수", "우리핵박수1"], 			"tags":["우리핵", "움짤"]},
