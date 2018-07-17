@@ -2,6 +2,7 @@
 	{"name":"추골헐.png", 		"keywords":["추골헐"],						"tags":["추골"]},
 	{"name":"추골하하.png", 		"keywords":["추골하하"],						"tags":["추골"]},
 	{"name":"골든빳다죠.png", 		"keywords":["골든빳다죠"],						"tags":["추골"]},
+	{"name":"초골.gif", 		"keywords":["초골"],						"tags":["추골"]},
 
   {"name":"드라코.png", 		"keywords":["드라코"],						"tags":["뿌테"]},
 	{"name":"리스쿠마.png", 		"keywords":["리스쿠마", "쿠마"],						"tags":["뿌테"]},
