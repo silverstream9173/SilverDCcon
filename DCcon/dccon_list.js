@@ -2,6 +2,9 @@
 	{"name":"추골헐.png", 		"keywords":["추골헐"],						"tags":["추골"]},
 	{"name":"추골하하.png", 		"keywords":["추골하하"],						"tags":["추골"]},
 	{"name":"골든빳다죠.png", 		"keywords":["골든빳다죠"],						"tags":["추골"]},
+	{"name":"초골.gif", 		"keywords":["초골"],						"tags":["추골"]},
+	{"name":"골뎅깜놀.gif", 		"keywords":["골뎅깜놀", "추골깜놀"],						"tags":["추골"]},
+
 
   {"name":"드라코.png", 		"keywords":["드라코"],						"tags":["뿌테"]},
 	{"name":"리스쿠마.png", 		"keywords":["리스쿠마", "쿠마"],						"tags":["뿌테"]},
@@ -54,6 +57,8 @@
 	{"name":"위자드3.png", 		"keywords":["위자드3"],						"tags":["트리키타워"]},
 	{"name":"위자드4.png", 		"keywords":["위자드4"],						"tags":["트리키타워"]},
 	{"name":"트리키.png", 		"keywords":["트리키"],						"tags":["트리키타워"]},
+
+	{"name":"버스딸딸.gif", 		"keywords":["버스딸딸"],						"tags":["버심"]},
 
   {"name":"갓아영.png", 		"keywords":["갓아영"],						"tags":["해축"]},
   {"name":"졸개들.gif", 		"keywords":["졸개들"],						"tags":["해축"]},
