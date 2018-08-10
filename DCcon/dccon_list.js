@@ -304,6 +304,8 @@
 	{"name":"기타불편.png",			"keywords":["불편"],						"tags":["게비스콘"]},
 	{"name":"기타편안.png",			"keywords":["편안"],						"tags":["게비스콘"]},
 	{"name":"편안해짐.gif",			"keywords":["편안해짐"],						"tags":["게비스콘"]},
+	{"name":"불편해짐.gif",			"keywords":["불편해짐"],						"tags":["게비스콘"]},
+	{"name":"불편불.gif",			"keywords":["불편불"],						"tags":["게비스콘"]},
 
 
 	{"name":"참피붕쯔.png",			"keywords":["붕쯔", "붕쯔붕쯔"],				"tags":[]},
