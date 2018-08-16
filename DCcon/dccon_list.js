@@ -145,6 +145,19 @@
 	{"name":"페페탕탕.gif", 		"keywords":["페페탕탕"],						"tags":["개구리", "페페"]},
 	{"name":"페페화남.gif", 		"keywords":["페페화남"],						"tags":["개구리", "페페"]},
 	{"name":"페페활활.gif", 		"keywords":["페페활활"],						"tags":["개구리", "페페"]},
+	{"name":"앵그리페페.png", 		"keywords":["앵그리페페"],						"tags":["개구리", "페페"]},
+	{"name":"페페초딩.png", 		"keywords":["페페초딩"],						"tags":["개구리", "페페"]},
+	{"name":"페페팝콘.png", 		"keywords":["페페팝콘"],						"tags":["개구리", "페페"]},
+
+	{"name":"흠.png", 		"keywords":["흠"],						"tags":["흠모티콘"]},
+	{"name":"흠2.png", 		"keywords":["흠2"],						"tags":["흠모티콘"]},
+	{"name":"스웩흠.png", 		"keywords":["스웩흠"],						"tags":["흠모티콘"]},
+	{"name":"흠흠흠.png", 		"keywords":["흠흠흠"],						"tags":["흠모티콘"]},
+	{"name":"회전흠.gif", 		"keywords":["회전흠"],						"tags":["흠모티콘"]},
+	{"name":"회전흠2.gif", 		"keywords":["회전흠2"],						"tags":["흠모티콘"]},
+	{"name":"회전흠3.gif", 		"keywords":["회전흠3"],						"tags":["흠모티콘"]},
+	{"name":"혼란흠.gif", 		"keywords":["혼란흠"],						"tags":["흠모티콘"]},
+
 
 	{"name":"역가서순.png",			"keywords":["서순"],						"tags":["역가"]},
 	{"name":"역가순서.png",			"keywords":["순서"],						"tags":["역가"]},
