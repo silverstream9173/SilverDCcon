@@ -102,6 +102,9 @@
 
 	{"name":"인공지능.png", 		"keywords":["인공지능"],						"tags":["인공지능"]},
 
+	{"name":"힘의차이.png", 		"keywords":["힘의차이"],						"tags":[""]},
+	{"name":"선생훌륭.png", 		"keywords":["선생훌륭"],						"tags":[""]},
+
 	{"name":"흠.png", 		"keywords":["흠"],						"tags":["흠모티콘"]},
 	{"name":"흠2.png", 		"keywords":["흠2"],						"tags":["흠모티콘"]},
 	{"name":"스웩흠.png", 		"keywords":["스웩흠"],						"tags":["흠모티콘"]},
