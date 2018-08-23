@@ -100,6 +100,8 @@
 	{"name":"페페초딩.png", 		"keywords":["페페초딩"],						"tags":["개구리", "페페"]},
 	{"name":"페페팝콘.png", 		"keywords":["페페팝콘"],						"tags":["개구리", "페페"]},
 
+	{"name":"인공지능.png", 		"keywords":["인공지능"],						"tags":["인공지능"]},
+
 	{"name":"흠.png", 		"keywords":["흠"],						"tags":["흠모티콘"]},
 	{"name":"흠2.png", 		"keywords":["흠2"],						"tags":["흠모티콘"]},
 	{"name":"스웩흠.png", 		"keywords":["스웩흠"],						"tags":["흠모티콘"]},
@@ -110,12 +112,17 @@
 	{"name":"혼란흠.gif", 		"keywords":["혼란흠"],						"tags":["흠모티콘"]},
 	{"name":"왜곡흠.gif", 		"keywords":["왜곡흠"],						"tags":["흠모티콘"]},
 
+	{"name":"민트초코.gif", 		"keywords":["민트초코"],						"tags":["민트초코"]},
+
 
 	{"name":"역가서순.png",			"keywords":["서순"],						"tags":["역가"]},
 	{"name":"역가순서.png",			"keywords":["순서"],						"tags":["역가"]},
 	{"name":"역헤가오.png",			"keywords":["아흑", "vv", "VV"],				"tags":["역가"]},
 	{"name":"역-헤가오.png",		"keywords":["아헤가오"],					"tags":["역가"]},
 	{"name":"기타두근두근.png",		"keywords":["두근두근", "데챠"],				"tags":["검열"]},
+	{"name":"두근두근2.gif", 		"keywords":["두근두근2"],						"tags":["검열"]},
+
+	{"name":"치킨.gif", 		"keywords":["치킨"],						"tags":["치킨"]},
 
 	{"name":"역가골든무말모.gif",		"keywords":["골든무말모", "고올든무말모"],			"tags":["역가", "움짤"]},
 
@@ -124,7 +131,7 @@
 	{"name":"주톱호랑이3.gif", 		"keywords":["호랑이3"],						"tags":["주토피아", "움짤"]},
 	{"name":"주톱호랑이4.gif", 		"keywords":["호랑이4"],						"tags":["주토피아", "움짤"]},
 
-	{"name":"ㄱㄴ.gif", 		"keywords":["ㄱㄴ"],						"tags":["해축"]},
+
 	{"name":"가젤1.gif", 		"keywords":["가젤"],						"tags":["주토피아", "움짤"]},
 	{"name":"가젤2.gif", 		"keywords":["가젤2"],						"tags":["주토피아", "움짤"]},
 	{"name":"가젤3.gif", 		"keywords":["가젤3"],						"tags":["주토피아", "움짤"]},
