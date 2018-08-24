@@ -114,6 +114,8 @@
 	{"name":"회전흠3.gif", 		"keywords":["회전흠3"],						"tags":["흠모티콘"]},
 	{"name":"혼란흠.gif", 		"keywords":["혼란흠"],						"tags":["흠모티콘"]},
 	{"name":"왜곡흠.gif", 		"keywords":["왜곡흠"],						"tags":["흠모티콘"]},
+	{"name":"육각흠.png", 		"keywords":["육각흠"],						"tags":["흠모티콘"]},
+	{"name":"떼껄흠.png", 		"keywords":["떼껄흠"],						"tags":["흠모티콘"]},
 
 	{"name":"민트초코.gif", 		"keywords":["민트초코"],						"tags":["민트초코"]},
 
