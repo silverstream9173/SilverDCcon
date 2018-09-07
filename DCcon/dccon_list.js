@@ -6,7 +6,7 @@
 	{"name":"골뎅깜놀.gif", 		"keywords":["골뎅깜놀", "추골깜놀"],						"tags":["추골"]},
 	{"name":"골뎅오우야.gif", 		"keywords":["골뎅오우야", "오우야", "ㅗㅜㅑ"],						"tags":["추골"]},
 	{"name":"골뎅자본.png", 		"keywords":["골뎅자본"],						"tags":["추골"]},
-	{"name":"골뎅딸딸.png", 		"keywords":["골뎅딸딸"],						"tags":["추골"]},
+	{"name":"골뎅딸딸.png", 		"keywords":["골뎅딸"],						"tags":["추골"]},
 
   {"name":"드라코.png", 		"keywords":["드라코"],						"tags":["뿌테"]},
 	{"name":"리스쿠마.png", 		"keywords":["리스쿠마", "쿠마"],						"tags":["뿌테"]},
@@ -103,8 +103,13 @@
 
 	{"name":"인공지능.png", 		"keywords":["인공지능"],						"tags":["인공지능"]},
 
-	{"name":"힘의차이.png", 		"keywords":["힘의차이"],						"tags":[""]},
-	{"name":"선생훌륭.png", 		"keywords":["선생훌륭"],						"tags":[""]},
+	{"name":"힘의차이.png", 		"keywords":["힘의차이"],						"tags":["선생콘"]},
+	{"name":"선생훌륭.png", 		"keywords":["선생훌륭"],						"tags":["선생콘"]},
+	{"name":"개돼지.png", 		"keywords":["개돼지"],						"tags":["선생콘"]},
+	{"name":"계산중.png", 		"keywords":["계산중"],						"tags":["선생콘"]},
+	{"name":"똥캐.png", 		"keywords":["똥캐"],						"tags":["선생콘"]},
+	{"name":"망테크.png", 		"keywords":["망테크"],						"tags":["선생콘"]},
+
 
 	{"name":"흠.png", 		"keywords":["흠"],						"tags":["흠모티콘"]},
 	{"name":"흠2.png", 		"keywords":["흠2"],						"tags":["흠모티콘"]},
