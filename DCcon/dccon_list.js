@@ -61,6 +61,7 @@
 	{"name":"트리키.png", 		"keywords":["트리키"],						"tags":["트리키타워"]},
 
 	{"name":"버스딸딸.gif", 		"keywords":["버스딸딸"],						"tags":["버심"]},
+	{"name":"퍄.gif", 		"keywords":["퍄"],						"tags":["퍄"]},
 
   {"name":"갓아영.png", 		"keywords":["갓아영"],						"tags":["해축"]},
   {"name":"졸개들.gif", 		"keywords":["졸개들"],						"tags":["해축"]},
@@ -100,8 +101,10 @@
 	{"name":"앵그리페페.png", 		"keywords":["앵그리페페"],						"tags":["개구리", "페페"]},
 	{"name":"페페초딩.png", 		"keywords":["페페초딩"],						"tags":["개구리", "페페"]},
 	{"name":"페페팝콘.png", 		"keywords":["페페팝콘"],						"tags":["개구리", "페페"]},
+	{"name":"페페싸닉.gif", 		"keywords":["페페싸닉"],						"tags":["개구리", "페페"]},
+	{"name":"페페팝콘.gif", 		"keywords":["페페팝콘"],						"tags":["개구리", "페페"]},
 
-	{"name":"인공지능.png", 		"keywords":["인공지능"],						"tags":["인공지능"]},
+	{"name":"인공지능.jpg", 		"keywords":["인공지능"],						"tags":["인공지능"]},
 
 	{"name":"힘의차이.png", 		"keywords":["힘의차이"],						"tags":["선생콘"]},
 	{"name":"선생훌륭.png", 		"keywords":["선생훌륭"],						"tags":["선생콘"]},
@@ -124,6 +127,8 @@
 	{"name":"떼껄흠.png", 		"keywords":["떼껄흠"],						"tags":["흠모티콘"]},
 
 	{"name":"민트초코.gif", 		"keywords":["민트초코"],						"tags":["민트초코"]},
+	{"name":"민트초코2.gif", 		"keywords":["민트초코2"],						"tags":["민트초코"]},
+	{"name":"스탈린.gif", 		"keywords":["스탈린"],						"tags":["스탈린"]},
 
 
 	{"name":"역가서순.png",			"keywords":["서순"],						"tags":["역가"]},
@@ -301,6 +306,7 @@
 	{"name":"우리핵안녕2.gif",		"keywords":["우리핵안녕2"], 					"tags":["우리핵", "움짤"]},
 	{"name":"우리핵병신.gif",		"keywords":["우리핵병신"],					"tags":["우리핵", "움짤"]},
 	{"name":"우리핵안무.gif",		"keywords":["우리핵안무"], 					"tags":["우리핵", "움짤"]},
+	{"name":"우리핵확대.gif",		"keywords":["우리핵확대"], 					"tags":["우리핵", "움짤"]},
 
 	{"name":"레바그안키.png",		"keywords":["그안키", "안키우는데요"],				"tags":["레바"]},
 	{"name":"레바띠용.png",			"keywords":["레바띠용"],					"tags":["레바"]},
@@ -366,6 +372,7 @@
 	{"name":"벤브리틀.gif",			"keywords":["리틀성기"],					"tags":["하스스톤", "움짤"]},
 	{"name":"벤브의도.gif",			"keywords":["의도된"],						"tags":["하스스톤", "움짤"]},
 	{"name":"기타어케.gif",			"keywords":["어케이김", "어케이겼노"],					"tags":["움짤"]},
+	{"name":"어케함.gif",			"keywords":["어케함", "어케했노"],					"tags":["움짤"]},
 
 	{"name":"핫산발상.png",			"keywords":["핫산발상"], 					"tags":["핫산"]},
 	{"name":"핫산쾅.png",			"keywords":["핫산쾅"], 						"tags":["핫산"]},
