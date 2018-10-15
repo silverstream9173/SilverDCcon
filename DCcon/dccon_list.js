@@ -4,6 +4,7 @@
 	{"name":"골든빳다죠.png", 		"keywords":["골든빳다죠"],						"tags":["추골"]},
 	{"name":"초골.gif", 		"keywords":["초골"],						"tags":["추골"]},
 	{"name":"골뎅깜놀.gif", 		"keywords":["골뎅깜놀", "추골깜놀"],						"tags":["추골"]},
+	{"name":"골뎅깜놀2.gif", 		"keywords":["골뎅깜놀2", "추골깜놀2"],						"tags":["추골"]},
 	{"name":"골뎅오우야.gif", 		"keywords":["골뎅오우야", "오우야", "ㅗㅜㅑ"],						"tags":["추골"]},
 	{"name":"골뎅자본.png", 		"keywords":["골뎅자본"],						"tags":["추골"]},
 	{"name":"골뎅딸딸.png", 		"keywords":["골뎅딸"],						"tags":["추골"]},
