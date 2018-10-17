@@ -112,7 +112,9 @@
 	{"name":"계산중.png", 		"keywords":["계산중"],						"tags":["선생콘"]},
 	{"name":"똥캐.png", 		"keywords":["똥캐"],						"tags":["선생콘"]},
 	{"name":"망테크.png", 		"keywords":["망테크"],						"tags":["선생콘"]},
-	{"name":"선생골뎅.png", 		"keywords":["선생골뎅"],						"tags":["선생콘"]},
+	{"name":"선생골뎅.png", 		"keywords":["선생골뎅"],						"tags":["선생콘","추골"]},
+	{"name":"선생트수.png", 		"keywords":["선생트수"],						"tags":["선생콘"]},
+	{"name":"선생추골.png", 		"keywords":["선생추골"],						"tags":["선생콘","추골"]},
 
 
 	{"name":"흠.png", 		"keywords":["흠"],						"tags":["흠모티콘"]},
