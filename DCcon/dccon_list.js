@@ -8,6 +8,10 @@
 	{"name":"골뎅오우야.gif", 		"keywords":["골뎅오우야", "오우야", "ㅗㅜㅑ"],						"tags":["추골"]},
 	{"name":"골뎅자본.png", 		"keywords":["골뎅자본"],						"tags":["추골"]},
 	{"name":"골뎅딸딸.png", 		"keywords":["골뎅딸"],						"tags":["추골"]},
+	 
+	{"name":"점바.png", 		"keywords":["점하","점바"],						"tags":["점가"]},
+	 {"name":"점넼댄.png", 		"keywords":["넼댄"],						"tags":["점가"]},
+	 {"name":"점꽐라.png", 		"keywords":["꽐라","눈물점가"],					"tags":["점가"]},
 
   {"name":"드라코.png", 		"keywords":["드라코"],						"tags":["뿌테"]},
 	{"name":"리스쿠마.png", 		"keywords":["리스쿠마", "쿠마"],						"tags":["뿌테"]},
