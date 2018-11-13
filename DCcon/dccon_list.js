@@ -15,6 +15,16 @@
 	{"name":"점넼댄.png", 		"keywords":["넼댄","점칼","점떽끼"],					"tags":["점가"]},
 	{"name":"점꽐라.png", 		"keywords":["꽐라","눈물점가"],					"tags":["점가"]},
 
+	{"name":"광란.png", 		"keywords":["광란"],						"tags":["림월드"]},
+	{"name":"낙진.png", 		"keywords":["낙진"],						"tags":["림월드"]},
+	{"name":"미래.png", 		"keywords":["정착지미래", "암울"],						"tags":["림월드"]},
+	{"name":"방화광.gif", 		"keywords":["방화광"],						"tags":["림월드"]},
+	{"name":"식중독.png", 		"keywords":["식중독", "구웨엑"],						"tags":["림월드"]},
+	{"name":"적출.png", 		"keywords":["적출"],						"tags":["림월드"]},
+	{"name":"정신파동.gif", 		"keywords":["정신파동", "함선"],						"tags":["림월드"]},
+	{"name":"화재.png", 		"keywords":["화재", "나무벽", "나무"],						"tags":["림월드"]},
+
+	 
   	{"name":"드라코.png", 		"keywords":["드라코"],						"tags":["뿌테"]},
 	{"name":"리스쿠마.png", 		"keywords":["리스쿠마", "쿠마"],						"tags":["뿌테"]},
 	{"name":"링고.png", 		"keywords":["링고"],						"tags":["뿌테"]},
