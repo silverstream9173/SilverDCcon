@@ -6,7 +6,7 @@
 	{"name":"점넼댄.png", 		"keywords":["넼댄","점칼","점떽끼"],					"tags":["점가"]},
 	{"name":"점꽐라.png", 		"keywords":["꽐라","눈물점가"],					"tags":["점가"]},
 	 
-	{"name":"제리감사.png", 		"keywords":["제리감사"],						"tags":["제리"]},
+	{"name":"제리감사.gif", 		"keywords":["제리감사"],						"tags":["제리"]},
 
 	{"name":"광란.png", 		"keywords":["광란"],						"tags":["림월드"]},
 	{"name":"낙진.png", 		"keywords":["낙진"],						"tags":["림월드"]},
