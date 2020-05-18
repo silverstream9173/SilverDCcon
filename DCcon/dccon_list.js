@@ -96,16 +96,16 @@
         { name: "히나타흠.png", keywords: ["히나타흠", "히나타음"], tags: ["작혼"] },
 	 
 	{"name":"제리감사.gif", 		"keywords":["제리감사"],						"tags":["제리"]},
+	{"name":"톰감사.gif", 		"keywords":["톰감사"],						"tags":["제리"]},
+	 
+	{"name":"관짝준비.gif", 		"keywords":["관짝준비"],						"tags":["관짝댄스"]},
+	{"name":"관짝댄스1.gif", 		"keywords":["관짝댄스1"],						"tags":["관짝댄스"]},
+	{"name":"관짝댄스2.gif", 		"keywords":["관짝댄스2"],						"tags":["관짝댄스"]},	 
 
-	{"name":"광란.png", 		"keywords":["광란"],						"tags":["림월드"]},
-	{"name":"낙진.png", 		"keywords":["낙진"],						"tags":["림월드"]},
-	{"name":"미래.png", 		"keywords":["정착지미래", "암울"],						"tags":["림월드"]},
-	{"name":"방화광.gif", 		"keywords":["방화광"],						"tags":["림월드"]},
-	{"name":"식중독.png", 		"keywords":["식중독", "구웨엑"],						"tags":["림월드"]},
-	{"name":"적출.png", 		"keywords":["적출"],						"tags":["림월드"]},
-	{"name":"정신파동.gif", 		"keywords":["정신파동", "함선"],						"tags":["림월드"]},
-	{"name":"화재.png", 		"keywords":["화재", "나무벽", "나무"],						"tags":["림월드"]},
-
+	{"name":"할매댄스.gif", 		"keywords":["할매댄스"],						"tags":["할매"]},
+	{"name":"럼프리듬.gif", 		"keywords":["럼프리듬"],						"tags":["럼프"]},
+	{"name":"펀쿨끄덕.gif", 		"keywords":["펀쿨끄덕"],						"tags":["펀쿨섹"]},	 
+	{"name":"펄럭.gif", 		"keywords":["펄럭"],						"tags":["펄럭"]},	 
 	 
   	{"name":"드라코.png", 		"keywords":["드라코"],						"tags":["뿌테"]},
 	{"name":"리스쿠마.png", 		"keywords":["리스쿠마", "쿠마"],						"tags":["뿌테"]},
@@ -414,13 +414,6 @@
 	{"name":"기타천조국.gif",		"keywords":["킹조국"],						"tags":["국기"]},
 	{"name":"기타리전락.gif",		"keywords":["리전락"],						"tags":["국기"]},
 
-	{"name":"카광혼자오셨.gif",		"keywords":["혼자오셨다구요?", "혼자오셨다구요"],		"tags":["움짤"]},
-	{"name":"카광뭐어라고.gif",		"keywords":["뭐어라고?", "뭐어라고"],				"tags":["움짤"]},
-	{"name":"카광저오빠.gif",		"keywords":["저오빠이상해", "아빠저오빠"],			"tags":["움짤"]},
-	{"name":"카광단하나.gif",		"keywords":["단하나"], 						"tags":["트리키타워"]},
-	{"name":"카광단두개.gif",		"keywords":["단두개"], 						"tags":["트리키타워"]},
-	{"name":"카광단세개.gif",		"keywords":["단세개"], 						"tags":["트리키타워"]},
-
 	{"name":"좋은말좋겠다.gif",		"keywords":["좋겠다"], 						"tags":[]},
 	{"name":"좋은말네말맞.gif",		"keywords":["네말이맞아", "네말맞"], 				"tags":[]},
 	{"name":"좋은말짱이야.gif",		"keywords":["짱이야"], 						"tags":[]},
@@ -461,11 +454,12 @@
 	{"name":"핫산쾅.png",			"keywords":["핫산쾅"], 						"tags":["핫산"]},
 	{"name":"핫산펑.png",			"keywords":["핫산펑"], 						"tags":["핫산"]},
 
-	{"name":"AMD.png",			"keywords":["암드", "AMD", "amd"],				"tags":["컴갤콘"]},
-	{"name":"RYZEN.png", 			"keywords":["라이젠", "RYZEN", "ryzen"], 			"tags":["컴갤콘"]},
-	{"name":"INTEL.png",			"keywords":["인텔", "INTEL", "intel"],				"tags":["컴갤콘"]},
-	{"name":"DOCOMO.png",			"keywords":["도코모", "DOCOMO", "docomo"],			"tags":["컴갤콘"]},
+	{"name":"AMD.png",			"keywords":["암드", "AMD", "amd"],			  "tags":["컴갤콘"]},
+	{"name":"RYZEN.png", 			"keywords":["라이젠", "RYZEN", "ryzen"], 			 "tags":["컴갤콘"]},
+	{"name":"INTEL.png",			"keywords":["인텔", "INTEL", "intel"],		 	  "tags":["컴갤콘"]},
+	{"name":"DOCOMO.png",			"keywords":["도코모", "DOCOMO", "docomo"],			 "tags":["컴갤콘"]},
 	{"name":"LG.png",			"keywords":["엘지", "엘쥐", "LG", "lg"],			"tags":["컴갤콘"]},
+	{"name":"리샤수.gif", 		      "keywords":["리샤수"],				       "tags":["컴갤콘"]},	 
 
 	{"name":"야인시대4딸라.png",		"keywords":["4딸라"],						"tags":[]},
 	{"name":"야인시대오케이.png",		"keywords":["오케이땡큐"],					"tags":[]},
