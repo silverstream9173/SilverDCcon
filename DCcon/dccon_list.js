@@ -99,7 +99,7 @@
 	{"name":"톰감사.gif", 		"keywords":["톰감사"],						"tags":["제리"]},
 	 
 	{"name":"관짝준비.gif", 		"keywords":["관짝준비"],						"tags":["관짝댄스"]},
-	{"name":"관짝댄스1.gif", 		"keywords":["관짝댄스1"],						"tags":["관짝댄스"]},
+	{"name":"관짝댄스.gif", 		"keywords":["관짝댄스1"],						"tags":["관짝댄스"]},
 	{"name":"관짝댄스2.gif", 		"keywords":["관짝댄스2"],						"tags":["관짝댄스"]},	 
 
 	{"name":"할매댄스.gif", 		"keywords":["할매댄스"],						"tags":["할매"]},
