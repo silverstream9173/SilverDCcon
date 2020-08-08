@@ -5,6 +5,8 @@
 	{"name":"점흠.png", 		"keywords":["점흠","점가흠","흐음"],					"tags":["점가","흠모티콘"]},
 	{"name":"점넼댄.png", 		"keywords":["넼댄","점칼","점떽끼"],					"tags":["점가"]},
 	{"name":"점꽐라.png", 		"keywords":["꽐라","눈물점가"],					"tags":["점가"]},
+	{"name":"점헤윽.png", 		"keywords":["헤윽","점헤윽"],					"tags":["점가"]},
+	{"name":"점데헷.png", 		"keywords":["데헷","점데헷"],					"tags":["점가"]},
 	{"name":"점음.png", 		"keywords":["?","점음"],					"tags":["점가","흠모티콘"]},
 	 
 	{ name: "나나따봉.png", keywords: ["나나따봉"], tags: ["작혼"] },
