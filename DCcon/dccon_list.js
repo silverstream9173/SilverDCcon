@@ -6,7 +6,7 @@
 	{"name":"점넼댄.png", 		"keywords":["넼댄","점칼","점떽끼"],					"tags":["점가"]},
 	{"name":"점꽐라.png", 		"keywords":["꽐라","눈물점가"],					"tags":["점가"]},
 	{"name":"점헤윽.png", 		"keywords":["헤윽","점헤윽"],					"tags":["점가"]},
-	{"name":"점데헷.png", 		"keywords":["점데헷"],					"tags":["점가"]},
+	{"name":"점데헷.png", 		"keywords":["데헷","점데헷"],					"tags":["점가"]},
 	{"name":"점음.png", 		"keywords":["?","점음"],					"tags":["점가","흠모티콘"]},
 	 
 	{ name: "나나따봉.png", keywords: ["나나따봉"], tags: ["작혼"] },
@@ -290,7 +290,6 @@
 	{"name":"꼭사라.png", 		"keywords":["꼭사라"],						"tags":[]},
 	{"name":"눈물.png", 		"keywords":["눈물", "ㅜㅜ", "ㅠㅠ"],						"tags":[]},
 	{"name":"눈물여관주인.png", 		"keywords":["눈물여관주인"],						"tags":[]},
-	{"name":"데헷.png", 		"keywords":["데헷"],						"tags":[]},
 	{"name":"로보토미.png", 		"keywords":["로보토미"],						"tags":[]},
 	{"name":"메롱.png", 		"keywords":["메롱"],						"tags":[]},
 	{"name":"메모장.png", 		"keywords":["메모장"],						"tags":[]},
